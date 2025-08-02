@@ -1,4 +1,4 @@
-# Gerador de Sennhas e QRCodes para e-commerce
+# Gerador de Senhas e QRCodes para e-commerce
 Esta é uma aplicação de linha de comando desenvolvida em Node.js para um e-commerce, que oferece duas funcionalidades principais, podendo ser escalável, que são:
 1. __Gerador de Senhas Seguras__: Cria senhas aleatórias com base em critérios personalizáveis (tamanho e tipo de caracteres) definidos através de variáveis de ambiente.
 2. __Gerador de QR Codes__: Converte um link fornecido pelo usuário em um QR Code, que pode ser exibido diretamente no terminal ou em um arquivo de imagem.
